@@ -1,0 +1,116 @@
+/*================================================================================
+	Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+// .file-icon {
+// 	height: 10px !important;
+// 	width: auto !important;
+// }
+
+.add-invoice {
+	margin-left: auto;
+	margin-right: 1rem;
+}
+
+.rdt_TableHeader {
+	text-align: center !important;
+}
+
+.rupee-symbol {
+	text-align: center;
+	height: 35px;
+	width: 35px;
+	color: #fe9e42 !important;
+	border-radius: 50px;
+	padding: 6px;
+	line-height: 26px;
+}
+
+div.col-2 {
+	margin-right: 5px;
+}
+
+h6 {
+	margin-bottom: 0rem;
+}
+
+.settings-icon {
+	padding: 5px;
+}
+
+.metrics-icons {
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	padding: 7px;
+	background-color: lightgrey;
+	display: flex;
+}
+
+.unpaid-icon {
+	padding: 6px;
+	margin-right: 4px;
+	background-color: #fdebeb;
+	border-radius: 50px;
+}
+
+.unpaid-alt-icon {
+	padding: 6px;
+	margin-right: 4px;
+	background-color: #efecff;
+	border-radius: 50px;
+}
+
+.unpaid-alt {
+	color: #7d72f0;
+	background-color: #efecff;
+}
+
+.paid-icon {
+	padding: 6px;
+	margin-right: 4px;
+	background-color: #e4f8ec;
+	border-radius: 50px;
+}
+
+.unpaid {
+	color: #ec6a6a;
+	background-color: #fdebea;
+}
+
+.paid {
+	color: #4ed087;
+	background-color: #e3f8ed;
+}
+
+.initials {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 0.8rem;
+	width: 30px;
+	height: 30px;
+	border-radius: 100px;
+	color: #7c71f0;
+	background-color: #efecfe;
+	float: left;
+	margin-top: 3px;
+	margin-right: 5px;
+}
+
+.customer-container {
+	max-width: 350px;
+	min-width: 300px;
+}
+
+.text-muted {
+	padding-top: 0px;
+}
